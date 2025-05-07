@@ -27,6 +27,59 @@ This repository is structured as a progressive learning path. Each notebook cove
 
 ---
 
+## 📋 Concepts Index
+
+Navigate directly to specific concepts within the notebooks:
+
+### Python Basics
+- [Variables & Data Types](01_python_basics.ipynb#Variables-and-Data-Types)
+- [Control Flow (if/else, loops)](01_python_basics.ipynb#Control-Flow)
+- [Functions & Methods](01_python_basics.ipynb#Functions-and-Methods)
+- [List Comprehensions](01_python_basics.ipynb#List-Comprehensions)
+- [Error Handling](01_python_basics.ipynb#Error-Handling)
+
+### Data Manipulation
+- [DataFrame Operations](02_Data_Manipulation_with_Pandas.ipynb#DataFrame-Operations)
+- [Data Filtering & Selection](02_Data_Manipulation_with_Pandas.ipynb#Data-Filtering-and-Selection)
+- [Grouping & Aggregation](02_Data_Manipulation_with_Pandas.ipynb#Grouping-and-Aggregation)
+- [Merging & Joining DataFrames](02_Data_Manipulation_with_Pandas.ipynb#Merging-and-Joining)
+- [Time Series Analysis](02_Data_Manipulation_with_Pandas.ipynb#Time-Series-Analysis)
+
+### Data Visualization
+- [Line & Bar Charts](03_Data_Visualization.ipynb#Line-and-Bar-Charts)
+- [Scatter Plots & Heatmaps](03_Data_Visualization.ipynb#Scatter-Plots-and-Heatmaps)
+- [Statistical Visualizations](03_Data_Visualization.ipynb#Statistical-Visualizations)
+- [Multi-plot Figures](03_Data_Visualization.ipynb#Multi-plot-Figures)
+- [Interactive Visualizations](03_Data_Visualization.ipynb#Interactive-Visualizations)
+
+### Statistical Analysis
+- [Descriptive Statistics](04_Statistical_Analysis.ipynb#Descriptive-Statistics)
+- [Hypothesis Testing](04_Statistical_Analysis.ipynb#Hypothesis-Testing)
+- [Correlation Analysis](04_Statistical_Analysis.ipynb#Correlation-Analysis)
+- [Regression Analysis](04_Statistical_Analysis.ipynb#Regression-Analysis)
+
+### Machine Learning
+- [Classification Models](05_Machine_Learning_Basics.ipynb#Classification-Models)
+- [Regression Models](05_Machine_Learning_Basics.ipynb#Regression-Models)
+- [Model Evaluation](05_Machine_Learning_Basics.ipynb#Model-Evaluation)
+- [Feature Engineering](05_Machine_Learning_Basics.ipynb#Feature-Engineering)
+- [Deep Learning Basics](06_Advanced_ML_and_AI.ipynb#Deep-Learning-Basics)
+- [Natural Language Processing](06_Advanced_ML_and_AI.ipynb#Natural-Language-Processing)
+- [Computer Vision](06_Advanced_ML_and_AI.ipynb#Computer-Vision)
+
+### Advanced Python
+- [Decorators & Generators](07_Python_Advanced_Topics.ipynb#Decorators-and-Generators)
+- [Object-Oriented Programming](07_Python_Advanced_Topics.ipynb#Object-Oriented-Programming)
+- [Functional Programming](07_Python_Advanced_Topics.ipynb#Functional-Programming)
+- [Testing Frameworks](08_Python_Testing_and_Debugging.ipynb#Testing-Frameworks)
+- [Debugging Techniques](08_Python_Testing_and_Debugging.ipynb#Debugging-Techniques)
+- [Multithreading & Multiprocessing](09_Python_Concurrency_and_Networking.ipynb#Multithreading-and-Multiprocessing)
+- [Web Scraping](10_Python_Web_and_GUI.ipynb#Web-Scraping)
+- [GUI Development](10_Python_Web_and_GUI.ipynb#GUI-Development)
+- [Working with Files](11_Python_Data_Serialization_and_IO.ipynb#Working-with-Files)
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
