@@ -32,51 +32,51 @@ This repository is structured as a progressive learning path. Each notebook cove
 Navigate directly to specific concepts within the notebooks by clicking on the links below:
 
 ### Python Basics
-- [Variables & Data Types](01_python_basics.ipynb)
-- [Control Flow (if/else, loops)](01_python_basics.ipynb)
-- [Functions & Methods](01_python_basics.ipynb)
-- [List Comprehensions](01_python_basics.ipynb)
-- [Error Handling](01_python_basics.ipynb)
+- [Variables & Data Types](Python%20for%20Data%20Science/01_python_basics.ipynb)
+- [Control Flow (if/else, loops)](Python%20for%20Data%20Science/01_python_basics.ipynb)
+- [Functions & Methods](Python%20for%20Data%20Science/01_python_basics.ipynb)
+- [List Comprehensions](Python%20for%20Data%20Science/01_python_basics.ipynb)
+- [Error Handling](Python%20for%20Data%20Science/01_python_basics.ipynb)
 
 ### Data Manipulation
-- [DataFrame Operations](02_Data_Manipulation_with_Pandas.ipynb)
-- [Data Filtering & Selection](02_Data_Manipulation_with_Pandas.ipynb)
-- [Grouping & Aggregation](02_Data_Manipulation_with_Pandas.ipynb)
-- [Merging & Joining DataFrames](02_Data_Manipulation_with_Pandas.ipynb)
-- [Time Series Analysis](02_Data_Manipulation_with_Pandas.ipynb)
+- [DataFrame Operations](Python%20for%20Data%20Science/02_Data_Manipulation_with_Pandas.ipynb)
+- [Data Filtering & Selection](Python%20for%20Data%20Science/02_Data_Manipulation_with_Pandas.ipynb)
+- [Grouping & Aggregation](Python%20for%20Data%20Science/02_Data_Manipulation_with_Pandas.ipynb)
+- [Merging & Joining DataFrames](Python%20for%20Data%20Science/02_Data_Manipulation_with_Pandas.ipynb)
+- [Time Series Analysis](Python%20for%20Data%20Science/02_Data_Manipulation_with_Pandas.ipynb)
 
 ### Data Visualization
-- [Line & Bar Charts](03_Data_Visualization.ipynb)
-- [Scatter Plots & Heatmaps](03_Data_Visualization.ipynb)
-- [Statistical Visualizations](03_Data_Visualization.ipynb)
-- [Multi-plot Figures](03_Data_Visualization.ipynb)
-- [Interactive Visualizations](03_Data_Visualization.ipynb)
+- [Line & Bar Charts](Python%20for%20Data%20Science/03_Data_Visualization.ipynb)
+- [Scatter Plots & Heatmaps](Python%20for%20Data%20Science/03_Data_Visualization.ipynb)
+- [Statistical Visualizations](Python%20for%20Data%20Science/03_Data_Visualization.ipynb)
+- [Multi-plot Figures](Python%20for%20Data%20Science/03_Data_Visualization.ipynb)
+- [Interactive Visualizations](Python%20for%20Data%20Science/03_Data_Visualization.ipynb)
 
 ### Statistical Analysis
-- [Descriptive Statistics](04_Statistical_Analysis.ipynb)
-- [Hypothesis Testing](04_Statistical_Analysis.ipynb)
-- [Correlation Analysis](04_Statistical_Analysis.ipynb)
-- [Regression Analysis](04_Statistical_Analysis.ipynb)
+- [Descriptive Statistics](Python%20for%20Data%20Science/04_Statistical_Analysis.ipynb)
+- [Hypothesis Testing](Python%20for%20Data%20Science/04_Statistical_Analysis.ipynb)
+- [Correlation Analysis](Python%20for%20Data%20Science/04_Statistical_Analysis.ipynb)
+- [Regression Analysis](Python%20for%20Data%20Science/04_Statistical_Analysis.ipynb)
 
 ### Machine Learning
-- [Classification Models](05_Machine_Learning_Basics.ipynb)
-- [Regression Models](05_Machine_Learning_Basics.ipynb)
-- [Model Evaluation](05_Machine_Learning_Basics.ipynb)
-- [Feature Engineering](05_Machine_Learning_Basics.ipynb)
-- [Deep Learning Basics](06_Advanced_ML_and_AI.ipynb)
-- [Natural Language Processing](06_Advanced_ML_and_AI.ipynb)
-- [Computer Vision](06_Advanced_ML_and_AI.ipynb)
+- [Classification Models](Python%20for%20Data%20Science/05_Machine_Learning_Basics.ipynb)
+- [Regression Models](Python%20for%20Data%20Science/05_Machine_Learning_Basics.ipynb)
+- [Model Evaluation](Python%20for%20Data%20Science/05_Machine_Learning_Basics.ipynb)
+- [Feature Engineering](Python%20for%20Data%20Science/05_Machine_Learning_Basics.ipynb)
+- [Deep Learning Basics](Python%20for%20Data%20Science/06_Advanced_ML_and_AI.ipynb)
+- [Natural Language Processing](Python%20for%20Data%20Science/06_Advanced_ML_and_AI.ipynb)
+- [Computer Vision](Python%20for%20Data%20Science/06_Advanced_ML_and_AI.ipynb)
 
 ### Advanced Python
-- [Decorators & Generators](07_Python_Advanced_Topics.ipynb)
-- [Object-Oriented Programming](07_Python_Advanced_Topics.ipynb)
-- [Functional Programming](07_Python_Advanced_Topics.ipynb)
-- [Testing Frameworks](08_Python_Testing_and_Debugging.ipynb)
-- [Debugging Techniques](08_Python_Testing_and_Debugging.ipynb)
-- [Multithreading & Multiprocessing](09_Python_Concurrency_and_Networking.ipynb)
-- [Web Scraping](10_Python_Web_and_GUI.ipynb)
-- [GUI Development](10_Python_Web_and_GUI.ipynb)
-- [Working with Files](11_Python_Data_Serialization_and_IO.ipynb)
+- [Decorators & Generators](Python%20for%20Data%20Science/07_Python_Advanced_Topics.ipynb)
+- [Object-Oriented Programming](Python%20for%20Data%20Science/07_Python_Advanced_Topics.ipynb)
+- [Functional Programming](Python%20for%20Data%20Science/07_Python_Advanced_Topics.ipynb)
+- [Testing Frameworks](Python%20for%20Data%20Science/08_Python_Testing_and_Debugging.ipynb)
+- [Debugging Techniques](Python%20for%20Data%20Science/08_Python_Testing_and_Debugging.ipynb)
+- [Multithreading & Multiprocessing](Python%20for%20Data%20Science/09_Python_Concurrency_and_Networking.ipynb)
+- [Web Scraping](Python%20for%20Data%20Science/10_Python_Web_and_GUI.ipynb)
+- [GUI Development](Python%20for%20Data%20Science/10_Python_Web_and_GUI.ipynb)
+- [Working with Files](Python%20for%20Data%20Science/11_Python_Data_Serialization_and_IO.ipynb)
 
 ---
 
